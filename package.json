@@ -1,0 +1,24 @@
+{
+  "name": "wxquery",
+  "version": "1.0.0",
+  "description": "wechat user sex collection",
+  "main": "wechat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maxbee/wxQuery.git"
+  },
+  "author": "G.M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maxbee/wxQuery/issues"
+  },
+  "homepage": "https://github.com/Maxbee/wxQuery#readme",
+  "devDependencies": {
+    "cron": "^1.4.0",
+    "qrcode-terminal": "^0.12.0",
+    "wechat4u": "^0.7.6"
+  }
+}
